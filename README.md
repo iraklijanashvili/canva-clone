@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Canva Clone
+
+A powerful design tool built with Next.js, React, and TypeScript that allows users to create beautiful designs with an intuitive drag-and-drop interface.
+
+## Features
+
+- Modern UI with Tailwind CSS and styled-components
+- Drag and drop editor for creating designs
+- Authentication system
+- Project management
+- Templates library
+- Image upload and editing
+- Text editing with various fonts
+- Shapes and drawing tools
+- AI-powered image generation
+- Subscription system
+
 ## Getting Started
 
 First, run the development server:
